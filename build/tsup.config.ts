@@ -7,5 +7,5 @@ export default defineConfig({
   sourcemap: true,
   format: ['esm', 'cjs'],
   entry: ['src/index.ts'],
-  tsconfig: '../tsconfig.json',
+  tsconfig: './tsconfig.json',
 });

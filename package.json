@@ -6,8 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@joyid/ckb": "^1.0.0",
     "lodash": "^4.17.21",
-    "rgbpp": "0.0.0-snap-20240702110120"
+    "rgbpp": "0.0.0-snap-20240705090030"
   },
   "devDependencies": {
     "tsup": "^8.1.0",
